@@ -23,11 +23,6 @@ uses
 
 type
   TForm1 = class(TForm)
-    cxGridViewRepository1: TcxGridViewRepository;
-    cxGrid1DBTableView1: TcxGridDBTableView;
-    cxGrid1Level1: TcxGridLevel;
-    cxGrid1: TcxGrid;
-    frxDBDataset1: TfrxDBDataset;
   private
     { Private declarations }
   public
